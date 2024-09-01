@@ -1,0 +1,1 @@
+Output Stream Content: This text will be read into the byte array and then the file output stream object will write this text into the destination file
